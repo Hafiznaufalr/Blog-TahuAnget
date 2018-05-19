@@ -1,0 +1,90 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tahuanget.000webhostapp.com" resolutions="1x" timestamp="1509299721984">
+  <folder name="css">
+    <file name="site_global.css" crc="459042434"/>
+    <file name="master_b-master.css" crc="501557139" ref="index"/>
+    <file name="master_a-master.css" crc="337393500" ref="definisi-budaya"/>
+    <file name="definisi-budaya.css" crc="4193505711" ref="definisi-budaya"/>
+    <file name="index.css" crc="3904137680" ref="index"/>
+    <file name="iefonts_index.css" crc="3779997256" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="definisi-budaya:index"/>
+    <file name="museutils.js" crc="4232573551" ref="definisi-budaya:index"/>
+    <file name="whatinput.js" crc="86476730" ref="definisi-budaya:index"/>
+    <file name="museconfig.js" crc="4152223963" ref="definisi-budaya:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="definisi-budaya:index"/>
+    <file name="webpro.js" crc="3770351119" ref="definisi-budaya"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="definisi-budaya"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="definisi-budaya"/>
+    <file name="touchswipe.js" crc="3912873526" ref="definisi-budaya"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="definisi-budaya:index"/>
+    <file name="require.js" crc="4234670167" ref="definisi-budaya:index"/>
+  </folder>
+  <folder name="images">
+    <file name="ta_logo02.png" crc="3973694858" seo="true" ref="definisi-budaya">
+      <caption webpage="definisi-budaya" alt=""/>
+    </file>
+    <file name="indo-img01.png" crc="4020279600" seo="true" ref="definisi-budaya">
+      <caption webpage="definisi-budaya" alt=""/>
+    </file>
+    <file name="rumahadat01.jpg" crc="127737736" seo="true" ref="definisi-budaya">
+      <caption webpage="definisi-budaya" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="definisi-budaya"/>
+    <file name="rumahadat02.jpg" crc="278879843" seo="true" ref="definisi-budaya">
+      <caption webpage="definisi-budaya" alt=""/>
+    </file>
+    <file name="rumahadat03.jpg" crc="485972027" seo="true" ref="definisi-budaya">
+      <caption webpage="definisi-budaya" alt=""/>
+    </file>
+    <file name="rumahadat04.jpg" crc="162895652" seo="true" ref="definisi-budaya">
+      <caption webpage="definisi-budaya" alt=""/>
+    </file>
+    <file name="rumahadat05.jpg" crc="4004542684" seo="true" ref="definisi-budaya">
+      <caption webpage="definisi-budaya" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="definisi-budaya"/>
+    <file name="stbadik-crop-u782.jpg" crc="401538174" seo="true" ref="definisi-budaya">
+      <caption webpage="definisi-budaya" alt=""/>
+    </file>
+    <file name="stclurit.jpg" crc="162317800" seo="true" ref="definisi-budaya">
+      <caption webpage="definisi-budaya" alt=""/>
+    </file>
+    <file name="stkeris-crop-u835.jpg" crc="51610430" seo="true" ref="definisi-budaya">
+      <caption webpage="definisi-budaya" alt=""/>
+    </file>
+    <file name="stkeris2-crop-u861.jpg" crc="142082176" seo="true" ref="definisi-budaya">
+      <caption webpage="definisi-budaya" alt=""/>
+    </file>
+    <file name="stkujang-crop-u887.jpg" crc="4134837931" seo="true" ref="definisi-budaya">
+      <caption webpage="definisi-budaya" alt=""/>
+    </file>
+    <file name="pakaianadat2.jpg" crc="350878684" seo="true" ref="definisi-budaya">
+      <caption webpage="definisi-budaya" alt=""/>
+    </file>
+    <file name="paduansuara01.jpg" crc="347740575" ref="definisi-budaya">
+      <caption webpage="definisi-budaya" alt=""/>
+    </file>
+    <file name="tari03.jpg" crc="54752930" seo="true" ref="definisi-budaya">
+      <caption webpage="definisi-budaya" alt=""/>
+    </file>
+    <file name="tari01.jpg" crc="4109733503" seo="true" ref="definisi-budaya">
+      <caption webpage="definisi-budaya" alt=""/>
+    </file>
+    <file name="tari02.jpg" crc="371139634" seo="true" ref="definisi-budaya">
+      <caption webpage="definisi-budaya" alt=""/>
+    </file>
+    <file name="tari04.jpg" crc="76243374" seo="true" ref="definisi-budaya">
+      <caption webpage="definisi-budaya" alt=""/>
+    </file>
+    <file name="tari05.jpg" crc="4086926591" seo="true" ref="definisi-budaya">
+      <caption webpage="definisi-budaya" alt=""/>
+    </file>
+    <file name="bor.jpg" crc="3766651820" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ta_logo01-u1700.png" crc="348721958" ref="index"/>
+  </folder>
+  <file name="definisi-budaya.html" crc="359164929" seo="true" mt="1509299677020" redirect="true"/>
+  <file name="index.html" crc="3940540990" seo="true" mt="1509297543564" redirect="true"/>
+</manifest>
